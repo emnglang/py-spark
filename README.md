@@ -1,2 +1,2 @@
 # py-spark
-python code tested with enthougt canope + spark
+python code tested with enthought canope + spark
